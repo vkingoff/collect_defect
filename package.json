@@ -1,0 +1,12 @@
+{
+  "name": "analyse",
+  "version": "1.0.0",
+  "description": "",
+  "main": "analyse.js",
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "escomplex": "git+https://github.com/sand1k/escomplex.git#es6-support"
+  }
+}
